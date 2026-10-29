@@ -1,8 +1,8 @@
-# 🌟 Mindora — AI-Powered Rehabilitation Platform for Children with Down Syndrome
+# 🌟 SAWA — AI-Powered Rehabilitation Platform for Children with Down Syndrome
 
 > *"The App adapts to the child, not the child adapting to the App."*
 
-**Mindora** is a full-stack AI-powered rehabilitation and developmental support platform purpose-built for children with Down syndrome. It connects children, parents, and licensed therapists in a unified ecosystem powered by real-time computer vision, Gemini AI, and clinical session analytics.
+**SAWA** is a full-stack AI-powered rehabilitation and developmental support platform purpose-built for children with Down syndrome. It connects children, parents, and licensed therapists in a unified ecosystem powered by real-time computer vision, Gemini AI, and clinical session analytics.
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## 🧩 Platform Overview
 
-Mindora addresses three core developmental domains for children with Down syndrome:
+SAWA addresses three core developmental domains for children with Down syndrome:
 
 | Domain | Exercise | Technology |
 |--------|----------|-----------|
