@@ -1,17 +1,17 @@
-# 🧠 Mindora Backend — ASP.NET Core Web API
+# 🧠 SAWA Backend — ASP.NET Core Web API
 
 ![Live](https://img.shields.io/badge/API-Live-brightgreen) ![Platform](https://img.shields.io/badge/.NET-10-purple)
 
 > **Production URL:** https://sawa-app.runasp.net  
 > **Health Check:** https://sawa-app.runasp.net/health
 
-A fully production-deployed, enterprise-grade REST API powering the entire Mindora platform — serving the Flutter mobile app, the Doctor Web Dashboard, and AI-driven rehabilitation session analytics.
+A fully production-deployed, enterprise-grade REST API powering the entire SAWA platform — serving the Flutter mobile app, the Doctor Web Dashboard, and AI-driven rehabilitation session analytics.
 
 ---
 
 ## 🚀 What This Does
 
-The Mindora backend is the **central nervous system** of the platform. It:
+The SAWA backend is the **central nervous system** of the platform. It:
 
 - Authenticates parents, doctors, and admins via **JWT Bearer tokens** with full **ASP.NET Core Identity**
 - Manages child profiles, therapeutic activity catalogs, and real-time session lifecycle
