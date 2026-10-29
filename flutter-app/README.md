@@ -1,4 +1,4 @@
-# 📱 Mindora Flutter App — SAWA
+# 📱 SAWA Flutter App — SAWA
 
 ![APK](https://img.shields.io/badge/APK-Release-blue) ![Platform](https://img.shields.io/badge/Android-6.0%2B-green) ![MediaPipe](https://img.shields.io/badge/AI-MediaPipe-orange)
 
